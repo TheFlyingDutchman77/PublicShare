@@ -33,7 +33,17 @@ Location,Ono Gliderport,RJZCD,35.4477270115848,136.605131233872
 Location,Gliders Philippines,RPJST,14.0154927054111,120.734187268137
 Location,Novosibirsk Glider Strip,UMOPS,54.199328,80.2391054
 Location,Citeurup Paraglider Airport,WAKIF,-6.50801454205068,106.878319983993
-Location,Quintin Lodge,T004,-44.7913241960971,167.752871193358
+Location,Azov Airport,UAZV,47.180145,39.422089
+Location,Gizel’ Airport,UGIZ,43.072277,44.5904006
+Location,Krasnyy Kurgan Airport,ULRH,43.9500336,42.6255624
+Location,Borki Airfield,UPAA,58.3687022,31.037598
+Location,Podosinki Airport,UPOI,56.2353482,37.5548771
+Location,Yessentuki Airport,URME,44.0574994,42.8325696
+Location,Vikhrevo Airfield,USEG,56.2417221,38.156517
+Location,Aeroklub Almi,USRER,55.5855909,38.0842982
+Location,Myachkovo Airport,UUBM,55.563204,37.9800737
+Location,Istra Airport,UUEH,56.0989913,36.8015861
+Location,Uyemskiy Airport,UUYE,64.4689943967015,40.8393669382395
 Location,Beverley Airport,YBEV,-32.1270604710929,116.947017457883
 Location,Benalla,YBLA,-36.5519504993611,146.006883238248
 Location,Bond Springs Airport,YBSP,-23.5170556,133.8499679
@@ -343,19 +353,240 @@ Location,Vogtareuth,EDNV,47.9465485,12.2039789
 Location,Weissenhorn,EDNW,48.2893807,10.1395155
 Location,Oberschleissheim,EDNX,48.235729,11.5528271
 Location,Haidberg,EDNZ,50.1382604,11.8002739
+Location,Bad Berka,EDOB,50.9063389,11.2673161
+Location,Gardelegen,EDOC,52.5296447,11.3545209
+Location,Reinsdorf,EDOD,51.9000305,13.2012039
+Location,Bad Frankenhausen,EDOF,51.3727799,11.1399989
+Location,Langennersdorf,EDOH,50.9441562,13.2506457
+Location,Bienenfarm,EDOI,52.6553199,12.7547463
+Location,Lusse,EDOJ,52.1424211,12.6690954
+Location,Rudolstadt-Groschwitz,EDOK,50.7334626,11.2365886
+Location,Oschersleben,EDOL,52.0391964,11.2033948
+Location,Ochsenhausen,EDONR,48.053631149935,9.91937406603717
+Location,Bei Hattorf,EDONT,51.6328313,10.2571726
+Location,Altdorf-Hagenhausen Airfield,EDOO,49.3871195,11.4217893
+Location,Berneck,EDOPM,48.5721488,9.7296635
+Location,Kammermark,EDOPS,53.1953957,12.1644353
+Location,Oschatz,EDOQ,51.2954805,13.0852468
+Location,Stoelln/Rhinow,EDOR,52.7453249,12.3858224
+Location,Pennewitz,EDOS,50.6694167,11.0505556
+Location,Sassberg Glider Field,EDOSN,51.9027757400407,10.6998381615797
+Location,Stillberghof,EDOSV,48.7308226,10.8309319
+Location,Obergrochlitz,EDOT,50.6462427,12.1777825
+Location,Stendal-Borstel,EDOV,52.6329268,11.8312431
+Location,Vielist,EDOW,53.566106,12.6543035
+Location,Renneritz,EDOX,51.5949563,12.238108
+Location,Schonebeck-Zackmunde,EDOZ,51.9982247,11.7886855
+Location,Elchingen,EDPA,48.7777481,10.2651363
+Location,Bad Ditzenbach,EDPB,48.5652613,9.7249209
+Location,Jolling,EDPC,47.9251565,12.2888395
+Location,Dingolfing,EDPD,48.6574979,12.4984903
+Location,Eichstatt,EDPE,48.8785232,11.1798629
+Location,Schwandorf,EDPF,49.3393271,12.1846831
+Location,Heidenberg,EDPH,49.268269,11.0113196
+Location,Moosburg auf der Kippe,EDPI,48.4585149,11.9442082
+Location,Laichingen,EDPJ,48.4968592,9.6360924
+Location,Schonberg,EDPK,48.0476797,12.5006574
+Location,Ohlstadt Airfield,EDPL,47.6577376,11.2323469
+Location,Donzdorf,EDPM,48.6772,9.84793
+Location,Lunen-Lippeweiden,EDPMH,51.6165782,7.50237
+Location,Hulben,EDPMR,48.5293624,9.3982042
+Location,Paterzell Airfield,EDPN,47.8439169,11.0605914
+Location,Bad Bruckenau-Oberleichtersbach,EDPNR,50.2719141,9.8233051
+Location,Aventoft,EDPOP,54.8966136,8.8276541
+Location,Rammertshof Amberg Airfield,EDPP,49.4394872,11.8105676
+Location,Locktow,EDPPM,52.116501,12.70979
+Location,Gerstetten,EDPT,48.624481,10.0671989
+Location,Amalienhof,EDPU,48.7463367,10.0045517
+Location,Buchig Airfield,EDPV,50.4477521,10.2566091
+Location,Thalmassing-Waizenhofen,EDPW,49.0650855,11.2080644
+Location,Oberhinkofen Airfield,EDPX,48.9518065,12.1466468
+Location,Ellwangen,EDPY,48.96138,10.23108
+Location,Ottenberg Airfield,EDPZ,49.3287984,11.4802112
+Location,Bamberg AAF,EDQA,49.9180206,10.9061368
+Location,Bad Windsheim,EDQB,49.5104456,10.3664311
+Location,Brandensteinsebene,EDQC,50.265066,10.99198
+Location,Bayreuth,EDQD,49.983543,11.6400496
+Location,Burg Feuerstein,EDQE,49.7923646,11.1270998
+Location,Petersdorf,EDQF,49.3617572,10.6704758
+Location,Giebelstadt AAF,EDQG,49.6497123,9.9679479
+Location,Herzogenaurach,EDQH,49.5825765,10.8829331
+Location,Lauf-Lillinghof,EDQI,49.6049052,11.2830547
+Location,Große Hohe Airfield,EDQJ,52.9868411,8.5730662
+Location,Kulmach,EDQK,50.1335711,11.4633397
+Location,Lichtenfels,EDQL,50.1470524,11.0519604
+Location,Hof-Plauen,EDQM,50.2864041,11.8663086
+Location,Neustadt/Aisch,EDQN,49.5869331,10.5767929
+Location,Ottengruner Heide,EDQO,50.2258668,11.7319889
+Location,Große Wiese Airfield,EDQQ,52.1365294,10.568149
+Location,Ebern-Sendelbach,EDQR,50.0409221,10.8191795
+Location,Goldlauter,EDQS,50.6334776,10.7283662
+Location,Oppershausen Airfield,EDQU,52.5947326,10.2158284
+Location,Weiden,EDQW,49.6812117,12.1152208
+Location,Hetzleser Berg,EDQX,49.6413195,11.1607716
+Location,Steinrucken,EDQY,50.2300682,10.9904699
+Location,Zipser Berg,EDQZ,49.7619588,11.5682744
+Location,Bad Neuenahr-Ahrweiler Airfield,EDRA,50.5570778,7.1363168
+Location,Gronau Airfield,EDRC,52.0577999,9.8104
+Location,Neumagen-Dhron,EDRD,49.8425,6.9163889
+Location,Bad Durkheim,EDRF,49.4724065,8.1957992
+Location,Gottschied,EDRG,49.73191,7.33844
+Location,Linkenheim,EDRI,49.1417371,8.3950454
+Location,Mont Royal,EDRM,49.9697107,7.1117352
+Location,Nannhausen,EDRN,49.9702796,7.4791669
+Location,Quakenbruck Airfield,EDRQ,52.6633475,7.9243341
+Location,Osterholz-Scharmbeck Airfield,EDRR,53.2154005,8.8072996
+Location,Bad Sobernheim-Domberg,EDRS,49.7919066,7.6672814
+Location,Sundern-Seidfeld,EDRSG,51.3033754998935,7.97799664312262
+Location,Fohren,EDRT,49.8641555,6.7865603
+Location,Peine-Glindbruchkippe Airfield,EDRU,52.3237258,10.1814856
+Location,Wershofen/Eifel,EDRV,50.4514617,6.7880964
+Location,Wienau,EDRW,50.5659444,7.6525
+Location,Neunkirchen-Bexbach Airport,EDRX,49.3413582,7.2551372
+Location,Degerfeld,EDSA,48.2522923,9.0678309
+Location,Hopen Airfield,EDSC,53.1473509,9.7955333
 Location,Am Kreuzberg Glider Field,EDSD,50.3090007723514,10.3731578799454
+Location,Scheuen Celle,EDSER,52.6692999,10.0879999
+Location,Furth-Seckendorf Airfield,EDSF,49.4812083,10.8608943
+Location,Grabenstetten,EDSG,48.5335884,9.4436557
+Location,Backnang-Heiningen,EDSH,48.9215623,9.456515
 Location,Binningen,EDSI,47.7985157491749,8.71870130439856
+Location,Berliner Heide Airfield,EDSJ,52.669778,10.369752
 Location,Kehl-Sundheim,EDSK,48.5619646,7.8418095
+Location,Blumberg,EDSL,47.8443367,8.5629131
+Location,Stude Bernsteinsee Airfield,EDSM,52.5658715,10.6804328
+Location,Nortel,EDSO,48.6211801,9.6554085
+Location,Poltringen Airport,EDSP,48.5471441,8.9466534
+Location,Dornberg-Sontra Airfield,EDSQ,51.0864634,9.9180572
+Location,Stahringen,EDSR,47.8013684,8.9784873
 Location,Zellhausen,EDSS,50.0154218395635,8.98528914144588
 Location,Hahnweide,EDST,48.6317025877448,9.43011346541947
 Location,Steinberg in Surwold Glider Airfield,EDSU,52.9566756297625,7.55440409021387
 Location,Waechtersberg,EDSV,48.6152541944558,8.75607260577668
+Location,Altdorf-Wallburg,EDSW,48.2699234,7.8414544
+Location,Horbach Airfield,EDSX,50.6680752,8.261134
+Location,Huhnrain Airfield,EDSY,50.4902954,9.8492209
+Location,Zepfenhan,EDSZ,48.185646,8.7191095
+Location,Eibinger Forstwiese Airfield,EDTA,50.0185999,7.89324
+Location,Oos,EDTB,48.7942325,8.1846737
+Location,Bruchsal,EDTC,49.1350035,8.5640295
+Location,Donaueschingen-Villingen,EDTD,47.9753749,8.5153466
+Location,Eutingen Im Gaeu,EDTE,48.4854878,8.7767805
+Location,Freiburg/Breisgau,EDTF,48.0226162,7.8326448
+Location,Bremgarten,EDTG,47.9006902,7.6223126
+Location,Tirschenreuth Airfield,EDTI,49.874332,12.328842
+Location,Langenselbold Airfield,EDTJ,50.178322,9.0696227
+Location,Forchheim,EDTK,48.9770078,8.3422179
+Location,Nabern/Teck,EDTN,48.6160052,9.4737527
+Location,Pfullendorf,EDTP,47.9104009,9.2508251
+Location,Pattonville,EDTQ,48.8653078591916,9.22266227809677
 Location,Wildberg Glider Airfield,EDTSM,48.6374765049621,8.73333987144944
 Location,Tröstau Glider Field,EDTT,50.0189526707885,11.933464691657
-Location,Pattonville,EDTQ,48.8653078591916,9.22266227809677
+Location,Saulgau,EDTU,48.0287884,9.5054652
+Location,Laufenselden Airfield,EDTV,50.2217978,7.9988419
+Location,Winzeln-Schramberg,EDTW,48.2805458,8.4289072
+Location,Konstanz,EDTZ,47.6818485,9.1353928
+Location,Ferchesar,EDUA,52.6484031,12.4835872
+Location,Utscheid Segelflugplatz,EDUC,49.9992059,6.3454773
+Location,Reinheim Airfield,EDUD,49.8396851,8.8503702
+Location,Unterwssen Airfield,EDUE,47.7302041,12.4391071
+Location,Pohlheim Airfield,EDUG,50.5321409,8.7327725
+Location,Rothenberg Airfield,EDUH,49.4849893,8.9356261
+Location,Schotten Airfield,EDUI,50.5361011,9.14633
+Location,Kleve-Wisseler Dunen,EDUIN,51.7695325,6.3010609
+Location,Nidda Airfield,EDUJ,50.4057831,8.9876597
+Location,Vielbrunn Airfield,EDUK,49.7209566,9.0818728
+Location,Uslar Airfield,EDUL,51.6629232,9.608308
+Location,Ummern Airfield,EDUM,52.6173973,10.4145212
+Location,Geratshof Airfield,EDUN,47.991508,10.8374155
+Location,Ziegenhain Airfield - Der Ring,EDUP,50.9061955,9.2402145
+Location,Borghorst Airfield,EDUQ,52.1505628,7.453095
+Location,Hoherodskopf Airfield,EDUR,50.4996344,9.2190051
+Location,Dsseldorf-Wolfsaap Airfield,EDUU,51.2645097,6.8519916
+Location,Langenfeld Airfield,EDUX,51.1408826,6.9857555
+Location,Zerbst,EDUZ,52.0002787,12.1458387
+Location,Bad Gandersheim,EDVA,51.8562441,10.024648
+Location,Lindlar Airfield,EDVB,50.9952122,7.3738714
+Location,Arloh,EDVC,52.6873255,10.1159398
+Location,Segelfluggelande Altenbachtal,EDVD,49.9229081,9.1588311
+Location,Blomberg-Borkhausen,EDVF,51.9166221,9.1112025
+Location,Hodenhagen,EDVH,52.7619663,9.6074621
+Location,Hoxter-Holzminden,EDVI,51.8067609,9.3782682
+Location,Schaferstuhl,EDVJ,52.0296139,10.3644372
+Location,Calden,EDVK,51.4173114,9.3935596
+Location,Holleberg,EDVL,51.611289,9.4002901
+Location,Northeim,EDVN,51.7079046,10.0375238
+Location,Dehausen Airfield,EDVO,51.46385,9.0491273
+Location,Wilsche,EDVQ,52.524157,10.4683128
+Location,Rinteln,EDVR,52.1753962,9.0572354
+Location,Drutte,EDVS,52.1567945,10.4279937
+Location,Ithwiesen,EDVT,51.9520751,9.662357
+Location,Uelzen,EDVU,52.9829826,10.4681466
+Location,Kerken UL,EDVV,51.4420714,6.4465587
+Location,Bad Pyrmont,EDVW,51.97163,9.29739
+Location,Damme,EDWC,52.4887302,8.1829376
 Location,Meidelstetten Gliderfield,EDWEB,48.3612286198903,9.31054951179996
+Location,Wangerooge,EDWG,53.7883657,7.908913
+Location,Lingen,EDWN,52.457275,7.1822024
+Location,Atterheide,EDWO,52.2867496,7.970259
 Location,Atlas Airfield,EDWQ,53.0355619,8.5086521
+Location,Blexen,EDWT,53.5374755,8.5317497
+Location,Varrelbusch,EDWU,52.9089858,8.0333489
+Location,Scharnhorst,EDWV,52.96573,9.28338
+Location,Warngau Airfield,EDWW,47.8252179,11.703331
+Location,Westerstede-Felde,EDWX,53.2893681,7.929849
+Location,Achmer,EDXA,52.3786138,7.9148357
+Location,Schleswig-Kropp,EDXC,54.426582,9.538922
+Location,Bad Essen,EDXD,52.3527014,8.3300504
+Location,Eschendorf,EDXE,52.2753538,7.4955069
+Location,Schaferhaus,EDXF,54.776,9.3774301
+Location,Melle-Gronegau,EDXG,52.19976,8.37749
+Location,Nienburg-Holzbalge,EDXI,52.7100726,9.16601
+Location,St Michaelisdonn,EDXM,53.97756,9.1455
+Location,St Peter-Ording,EDXO,54.3085597,8.6820912
+Location,Schachtholm,EDXR,54.2170017,9.5979188
+Location,Huttenbusch,EDXU,53.2859923,8.949847
+Location,Berlinchen Airfield,EDXV,53.2269878,12.5670816
+Location,Witzenhausen-Burgberg Airport,EDXX,51.3517573,9.8240469
+Location,Brockzetel Airfield,EDYA,53.4818537,7.6485252
+Location,Tarmstedt Airfield,EDYB,53.2513999,9.1084
+Location,Walsrode Airfield,EDYC,52.8900048253049,9.60428572862848
+Location,Garbenheimer Wiesen Airfield,EDYD,50.5739999,8.529
 Location,Eudenbach Glider Field,EDYE,50.6704336650534,7.36097865926812
+Location,Riedelbach Airfield,EDYF,50.3022973,8.383795
+Location,Welzheim Airfield,EDYG,48.8749389,9.6571617
+Location,Menden-Barge Airfield,EDYI,51.4608052,7.8414934
+Location,Siegen-Eisernhardt Airfield,EDYK,50.8380771,8.0195609
+Location,Warburg Airfield,EDYL,51.4979587,9.0865326
+Location,Weipertshofen Airfield,EDYM,49.0881481,10.1226428
+Location,Ludwigshafen Airfield,EDYN,49.411651,8.3494611
+Location,Waldeck Airfield,EDYO,51.2286799,9.0574303
+Location,Ehingen-Schlechtenfeld,EDYR,48.2852742,9.6733918
+Location,Riesa-Canitz Airfield,EDYS,51.3023999,13.228
+Location,Gammelsdorf,EDYSN,48.5681498,11.9324812
+Location,Grunstadt Airfield,EDYT,49.5846148,8.1373031
+Location,Sultmer Berg,EDYTR,51.727625,9.9912153
+Location,Wildberg,EDYW,47.5995868,9.7411577
+Location,Volkleshofen Airfield,EDYX,49.0105379,9.3542093
+Location,Vaihingen an der Enz Airfield,EDYY,48.9365005,8.9706468
+Location,Ubersberg Airfield,EDZA,48.4583935,9.2973652
+Location,Titschendorf Airfield,EDZB,50.3940494,11.5216999
+Location,Tauberbischofsheim Airfield,EDZC,49.648362,9.6316963
+Location,Singhofen Airfield,EDZD,50.2713999,7.8548
+Location,Aero-Club Perleberg e.V.,EDZG,53.0674,11.81395
+Location,Zierenberg Airfield,EDZI,51.368453,9.3354047
+Location,Kusel-Langenbach Airfield,EDZJ,49.4766455,7.3138952
+Location,Klein Gartz Airfield,EDZK,52.8276964,11.3184316
+Location,Kirn Airfield,EDZL,49.7747986,7.5201773
+Location,Fischbek Airfield,EDZM,53.4582796,9.8258308
+Location,Eßweiler Airfield,EDZN,49.5618609,7.579594
+Location,Flugplatz Daun,EDZO,50.1759008,6.8578512
+Location,Dillingen Airfield,EDZQ,49.3869094,6.7520179
+Location,Bundenthal-Rumbach Airfield,EDZS,49.0924913,7.793943
+Location,Esslingen-Jagerhaus Airfield,EDZT,48.7622219,9.3338889
+Location,Bad Marienberg Airfield,EDZU,50.6606452,8.0286487
+Location,Baumerlenbach Airfield,EDZV,49.23099,9.4171047
+Location,UL-Flugplatz Auf der Schaufel,EDZW,51.098252,9.1488126
 Location,Menkijarvi,EFME,62.9472272429532,23.5166241213737
 Location,Nummela,EFNU,60.3352841458632,24.2996563894427
 Location,Sodankyla,EFSO,67.3953648967618,26.6189688165314
@@ -439,19 +670,133 @@ Location,Wieringermeer Glider Field,EPOMY,52.8207302159408,4.92686807784345
 Location,Odestugu Glider Field,ESPMY,57.6026204,14.2867043
 Location,Etting-Adelmannsberg Glider Field,ETT1,48.8103989728339,11.4213841553808
 Location,Cyprus Gliding Club,LCYSH,35.1759348,33.1823996
-Location,Souche,LFBN,46.3155107881663,-0.399145920591214
+Location,Sainte Croix sur Verdon,LF0429,43.7765859,6.1615
+Location,Margny,LFAD,49.4356505,2.8036755
+Location,Berck sur Mer,LFAM,50.4232688,1.5927048
+Location,Couterne,LFAO,48.5453143,-0.3854797
+Location,Bray,LFAQ,49.973242,2.6899462
+Location,Monts D'Eraines,LFAS,48.9271185,-0.1453622
+Location,Vauville,LFAU,49.6237736,-1.8298533
 Location,Montlucon-Gueret,LFBK,46.2260024468141,2.35903921736209
+Location,Souche,LFBN,46.3155107881663,-0.399145920591214
+Location,Parentis,LFBS,44.3662058,-1.1317289
+Location,Brie-Champniers,LFBU,45.7266199,0.2185254
+Location,Bassillac,LFBX,45.196329,0.812644
+Location,Bagneres de Luchon,LFCB,42.8009251,0.5995267
+Location,Saint Laurent,LFCE,46.1770013,1.9516924
+Location,Antichan,LFCG,43.0075081,1.103531
+Location,Larzac,LFCM,43.9888381,3.1817315
+Location,Herrere,LFCO,43.1642711,-0.55947
+Location,Leognan-Saucats,LFCS,44.7001858,-0.6005654
+Location,Thouars,LFCT,46.9627949,-0.1569768
+Location,Moissac,LFCX,44.0875284,1.1274622
+Location,Aire-sur-l'Adour,LFDA,43.708866,-0.2497767
+Location,Sainte Foy la Grande,LFDF,44.8524264,0.1784378
+Location,Virazeil,LFDM,44.4987926,0.1980939
+Location,St Agnant,LFDN,45.8868854,-0.9834732
+Location,Laloubere,LFDT,43.2152378,0.0764287
+Location,Chauvigny,LFDW,46.581356,0.6422581
+Location,Trelivan,LFEB,48.4432698,-2.1039081
+Location,Dierre,LFEF,47.340805,0.9446724
+Location,Le Fay,LFEK,46.8883527,2.0400387
+Location,Vimory,LFEM,47.9610335,2.686186
+Location,Til-Chatel,LFET,47.5445936,5.2064453
+Location,Les Hauts de Chee,LFEU,48.8676757,5.1828804
+Location,Saint Adrien,LFEV,47.4314145,5.6165586
+Location,Le Grand Phare,LFEY,46.71723,-2.389504
+Location,Malzeville,LFEZ,48.7203778,6.2090647
 Location,Buno Bonnevaux,LFFB,48.3493914554906,2.42569530516265
+Location,Cherence,LFFC,49.079626,1.6927861
+Location,Mussey,LFFJ,48.3852933,5.14322
+Location,Fontenay-le Comte,LFFK,46.4410359,-0.7944436
+Location,Bailleau Armenonville Airfield,LFFL,48.5163137,1.6405313
+Location,Neufchateau,LFFT,48.3606833,5.7169683
+Location,Mereau,LFFV,47.1968383,2.0658738
+Location,St Georges,LFFW,46.9315778,-1.3241084
+Location,St Remy,LFFZ,48.7101097,3.7606427
+Location,Habsheim,LFGB,47.7421949,7.4285924
 Location,Neuhof,LFGC,48.5535614,7.7794155
+Location,Chaux,LFGG,47.6955947,6.8337469
+Location,Cheu,LFGP,47.9801028,3.7728912
+Location,Neunkirch,LFGU,49.129789,7.1065561
+Location,Pierrelatte,LFHD,44.3977001,4.716113
+Location,Saint Paul,LFHE,45.0633802,5.0982541
+Location,L'Horme,LFHG,45.4907893,4.5350111
+Location,Vouvray,LFHN,46.1233381,5.8047353
+Location,Coltines,LFHQ,45.0749177,2.9926296
+Location,Beaumont,LFHR,45.3192901,3.3629091
+Location,Ceyzeriat,LFHS,46.2053602,5.2874846
+Location,Valence-sur-Baise,LFID,43.9096358,0.3896824
+Location,Belmont,LFIF,43.8233904,2.7459408
+Location,Rion Des Landes,LFIL,43.9151961,-0.9496779
+Location,Montrejeau,LFIM,43.1074478,0.618724
+Location,Bourg-St Bernard,LFIT,43.6102772,1.7258215
+Location,Itxassou,LFIX,43.3357558,-1.4207569
+Location,Aubenasson,LFJF,44.6949478,5.1506014
+Location,Palaminy,LFJH,43.1995177,1.0494127
+Location,Marce,LFJR,47.5629222,-0.3144233
+Location,Courmelles,LFJS,49.3425103,3.2776417
 Location,Le Louroux,LFJT,47.1511939961627,0.710331015746952
+Location,Sollieres Sardieres,LFKD,45.2539586,6.8017207
 Location,Alzitone,LFKG,42.0540408875544,9.40227019283739
+Location,Aron Airport,LFKI,48.3124728,-0.5356423
+Location,Eauze Airport,LFKN,43.8928253,0.1425222
+Location,La Tour Du Pin Airfield,LFKP,45.5572124,5.3860678
+Location,St Yan,LFLN,46.4063963,4.0211109
+Location,Renaison,LFLO,46.0525822,4.0031513
+Location,St Rambert d'Albon,LFLR,45.2565193,4.8229656
+Location,Chambeon,LFLZ,45.7073053,4.1939017
 Location,Fayence,LFMF,43.6113168,6.6982781
 Location,La Montagne Noire,LFMG,43.4064,1.9891
+Location,Vias,LFMU,43.3206285,3.3534281
+Location,St Auban,LFMX,44.0590035,5.9925118
+Location,Lezignan-Corbieres,LFMZ,43.173874,2.7330622
+Location,Brenoux,LFNB,44.506607,3.5273098
 Location,Saint Crepin,LFNC,44.7011248686401,6.59959396426638
+Location,Vinon,LFNF,43.7361793,5.7881951
+Location,Carpentras,LFNH,44.0224368,5.0894178
+Location,Aspres Sur Buech,LFNJ,44.5176916,5.7362751
+Location,St Martin De Londres,LFNL,43.7998299,3.7817866
+Location,Narbonne,LFNN,43.1940414,3.0519076
+Location,Florac Ste Enimie Airport,LFNO,44.288799,3.454803
+Location,La Quillane,LFNQ,42.5430619,2.1198635
+Location,Vaumeilh,LFNS,44.282812,5.9297436
+Location,Pujaut,LFNT,43.9962443,4.7546664
+Location,Puivert,LFNW,42.9102413,2.0549654
+Location,La Tour-Sur-Orb,LFNX,43.6393729,3.1447155
+Location,St Etienne En Devoluy Airport,LFNY,44.6667904,5.9041205
+Location,Le Mazet De Romanin Airport,LFNZ,43.769334,4.8942114
+Location,St Florent,LFOD,47.2586743,-0.1155698
+Location,Valframbert,LFOF,48.4443957,0.1091226
+Location,Saint Michel,LFOL,48.7590091,0.6580921
+Location,Champhol,LFOR,48.4594497,1.5240399
+Location,Roupy,LFOW,49.8168812,3.2064297
 Location,Saint Romain,LFOY,49.5443363169619,0.359638396429867
+Location,St Denis de l'Hotel,LFOZ,47.8983219,2.164314
+Location,Thiverval,LFPF,48.8434046,1.9048643
+Location,Voisins,LFPK,48.8375748,3.0110089
+Location,Episy,LFPU,48.3433055,2.7986162
+Location,Croismare,LFQC,48.5929977,6.5472905
+Location,Roclincourt,LFQD,50.3225492,2.8009151
+Location,Chatillon-sur-Seine,LFQH,47.8488121,4.5799164
+Location,Ecury-sur-Coole,LFQK,48.903331,4.3495893
+Location,La Veze,LFQM,47.206916,6.078926
+Location,Frotey,LFQW,47.6387263,6.2053826
 Location,Loyat,LFRP,48.0019144366487,-2.3789756061273
+Location,Le Val St Pere,LFRW,48.6612304,-1.3996712
+Location,Thise,LFSA,47.2731889,6.0820275
+Location,Dogneville,LFSE,48.2112132,6.4526382
+Location,Pontarlier,LFSP,46.9092545,6.3268929
+Location,Saint Sulpice des Landes,LFSS,47.7904336,-1.6430202
+Location,Langres-Rolampont,LFSU,47.961648,5.2903604
+Location,Pont St Vincent,LFSV,48.6008439,6.0584242
+Location,Montsaleon,LFTM,44.4500743,5.7264033
+Location,La Grand'Combe,LFTN,44.24366,4.0111276
 Location,La Motte du Caire Glider Field,LFUK,44.3256213,6.0313051
 Location,Seyne les Alpes Glider Field,LFUP,44.3414954479937,6.37317363077003
+Location,Thenac AB,LFXB,45.706898,-0.636005
+Location,Niergnies AB,LFYG,50.1407211,3.2636574
+Location,Saint-Hilaire-Saint-Mesmin Airport,LFZY,47.8112870144378,1.84129474763669
 Location,Aviosuperficie Alvaro Leonardi,LIAA,42.5729167532397,12.5835659667438
 Location,Foligno,LIAF,42.9386628961604,12.7140508539851
 Location,Aviosuperficie Olivola,LIEH,41.1806776262726,14.7493774552721
@@ -470,6 +815,8 @@ Location,Letkov,LKPL,49.7245430687151,13.4552007639545
 Location,Rokycany,LKRY,49.7507616246136,13.5910923377384
 Location,Pobiednik Wielki,EPKP,50.0844214,20.1978402
 Location,Zar,EPZR,49.7716048,19.2207006
+Location,Otocac,LDRO,44.850491,15.2802296
+Location,Sinj,LDSS,43.6993199,16.671079
 Location,Dornbirn,LOIH,47.3823882233583,9.69920422730273
 Location,Yverdon-Les-Bains,LSGY,46.7649102,6.615837
 Location,Birrfeld,LSZF,47.4443862248231,8.23014188150611
@@ -582,5 +929,17 @@ Location,Bergseth Field,WN76,47.2435739,-121.9245539
 Location,Laboulaye,SAOL,-34.1353,-63.3622
 Location,Zarate Airport,SAZC,-34.1173273756788,-59.082230240034
 Location,Pigue,SAZE,-37.6064191990444,-62.3828958398311
+Location,Araquara,SBAQ,-21.8055546,-48.1396316
+Location,Araxa,SBAX,-19.5607284,-46.9657927
+Location,Bauru,SBBU,-22.3435495,-49.0540278
+Location,Chapeco,SBCH,-27.1320128,-52.6606672
+Location,Guaratingueta,SBGW,-22.7954583,-45.2068939
+Location,Clube CEU Airport,SBIX,-22.9616558,-43.6580779
+Location,Goianira Airport,SBLF,-16.5907516,-49.3953748
+Location,Barreiras Airport,SBNJ,-12.0712814,-45.7128486
+Location,Pocos De Caldas,SBPC,-21.8403376,-46.566142
+Location,Porto Nacional,SBPN,-10.716428,-48.4003099
+Location,Rubem Berta Intl,SBUG,-29.7839952,-57.0357006
+Location,Campo Fontenelle,SBYS,-21.9836063,-47.3381538
 Location,Olmué Airport,SCOM,-32.9965539313724,-71.1718441216937
 Location,Bahia Gliding,SOUNR,-12.1661930102655,-45.8175556198276

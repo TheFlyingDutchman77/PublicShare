@@ -391,18 +391,108 @@
           </coordinates>
         </Point>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name><![CDATA[Australia & New Zealand]]></name>
       <Placemark>
-        <name>T004 Quintin Lodge</name>
+        <name>UAZV Azov Airport</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            167.752871193358,-44.7913241960971,0
+            39.422089,47.180145,0
           </coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>UGIZ Gizel’ Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            44.5904006,43.072277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ULRH Krasnyy Kurgan Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            42.6255624,43.9500336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPAA Borki Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            31.037598,58.3687022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPOI Podosinki Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.5548771,56.2353482,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>URME Yessentuki Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            42.8325696,44.0574994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USEG Vikhrevo Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            38.156517,56.2417221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USRER Aeroklub Almi</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            38.0842982,55.5855909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UUBM Myachkovo Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            37.9800737,55.563204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UUEH Istra Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            36.8015861,56.0989913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UUYE Uyemskiy Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            40.8393669382395,64.4689943967015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name><![CDATA[Australia & New Zealand]]></name>
       <Placemark>
         <name>YBEV Beverley Airport</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
@@ -3189,11 +3279,875 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>EDOB Bad Berka</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2673161,50.9063389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOC Gardelegen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.3545209,52.5296447,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOD Reinsdorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.2012039,51.9000305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOF Bad Frankenhausen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.1399989,51.3727799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOH Langennersdorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.2506457,50.9441562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOI Bienenfarm</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.7547463,52.6553199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOJ Lusse</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.6690954,52.1424211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOK Rudolstadt-Groschwitz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2365886,50.7334626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOL Oschersleben</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2033948,52.0391964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDONR Ochsenhausen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.91937406603717,48.053631149935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDONT Bei Hattorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.2571726,51.6328313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOO Altdorf-Hagenhausen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.4217893,49.3871195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOPM Berneck</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.7296635,48.5721488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOPS Kammermark</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1644353,53.1953957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOQ Oschatz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.0852468,51.2954805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOR Stoelln/Rhinow</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.3858224,52.7453249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOS Pennewitz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.0505556,50.6694167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOSN Sassberg Glider Field</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.6998381615797,51.9027757400407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOSV Stillberghof</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.8309319,48.7308226,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOT Obergrochlitz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1777825,50.6462427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOV Stendal-Borstel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.8312431,52.6329268,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOW Vielist</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.6543035,53.566106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOX Renneritz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.238108,51.5949563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDOZ Schonebeck-Zackmunde</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.7886855,51.9982247,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPA Elchingen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.2651363,48.7777481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPB Bad Ditzenbach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.7249209,48.5652613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPC Jolling</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.2888395,47.9251565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPD Dingolfing</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.4984903,48.6574979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPE Eichstatt</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.1798629,48.8785232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPF Schwandorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1846831,49.3393271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPH Heidenberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.0113196,49.268269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPI Moosburg auf der Kippe</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.9442082,48.4585149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPJ Laichingen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.6360924,48.4968592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPK Schonberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.5006574,48.0476797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPL Ohlstadt Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2323469,47.6577376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPM Donzdorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.84793,48.6772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPMH Lunen-Lippeweiden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.50237,51.6165782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPMR Hulben</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3982042,48.5293624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPN Paterzell Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.0605914,47.8439169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPNR Bad Bruckenau-Oberleichtersbach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.8233051,50.2719141,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPOP Aventoft</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.8276541,54.8966136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPP Rammertshof Amberg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.8105676,49.4394872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPPM Locktow</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.70979,52.116501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPT Gerstetten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.0671989,48.624481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPU Amalienhof</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.0045517,48.7463367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPV Buchig Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.2566091,50.4477521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPW Thalmassing-Waizenhofen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2080644,49.0650855,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPX Oberhinkofen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1466468,48.9518065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPY Ellwangen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.23108,48.96138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDPZ Ottenberg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.4802112,49.3287984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQA Bamberg AAF</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.9061368,49.9180206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQB Bad Windsheim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.3664311,49.5104456,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQC Brandensteinsebene</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.99198,50.265066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQD Bayreuth</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.6400496,49.983543,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQE Burg Feuerstein</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.1270998,49.7923646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQF Petersdorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.6704758,49.3617572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQG Giebelstadt AAF</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.9679479,49.6497123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQH Herzogenaurach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.8829331,49.5825765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQI Lauf-Lillinghof</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.2830547,49.6049052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQJ Große Hohe Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.5730662,52.9868411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQK Kulmach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.4633397,50.1335711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQL Lichtenfels</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.0519604,50.1470524,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQM Hof-Plauen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.8663086,50.2864041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQN Neustadt/Aisch</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.5767929,49.5869331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQO Ottengruner Heide</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.7319889,50.2258668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQQ Große Wiese Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.568149,52.1365294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQR Ebern-Sendelbach</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.8191795,50.0409221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQS Goldlauter</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.7283662,50.6334776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQU Oppershausen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.2158284,52.5947326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQW Weiden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1152208,49.6812117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQX Hetzleser Berg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.1607716,49.6413195,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQY Steinrucken</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.9904699,50.2300682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDQZ Zipser Berg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.5682744,49.7619588,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRA Bad Neuenahr-Ahrweiler Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.1363168,50.5570778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRC Gronau Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.8104,52.0577999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRD Neumagen-Dhron</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.9163889,49.8425,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRF Bad Durkheim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.1957992,49.4724065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRG Gottschied</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.33844,49.73191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRI Linkenheim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.3950454,49.1417371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRM Mont Royal</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.1117352,49.9697107,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRN Nannhausen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.4791669,49.9702796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRQ Quakenbruck Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.9243341,52.6633475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRR Osterholz-Scharmbeck Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.8072996,53.2154005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRS Bad Sobernheim-Domberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6672814,49.7919066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRSG Sundern-Seidfeld</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.97799664312262,51.3033754998935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRT Fohren</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.7865603,49.8641555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRU Peine-Glindbruchkippe Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.1814856,52.3237258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRV Wershofen/Eifel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.7880964,50.4514617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRW Wienau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6525,50.5659444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDRX Neunkirchen-Bexbach Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.2551372,49.3413582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSA Degerfeld</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0678309,48.2522923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSC Hopen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.7955333,53.1473509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>EDSD Am Kreuzberg Glider Field</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             10.3731578799454,50.3090007723514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSER Scheuen Celle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.0879999,52.6692999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSF Furth-Seckendorf Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.8608943,49.4812083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSG Grabenstetten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.4436557,48.5335884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSH Backnang-Heiningen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.456515,48.9215623,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3207,11 +4161,74 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>EDSJ Berliner Heide Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.369752,52.669778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>EDSK Kehl-Sundheim</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             7.8418095,48.5619646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSL Blumberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.5629131,47.8443367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSM Stude Bernsteinsee Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.6804328,52.5658715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSO Nortel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.6554085,48.6211801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSP Poltringen Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.9466534,48.5471441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSQ Dornberg-Sontra Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.9180572,51.0864634,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSR Stahringen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.9784873,47.8013684,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3252,6 +4269,159 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>EDSW Altdorf-Wallburg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.8414544,48.2699234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSX Horbach Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.261134,50.6680752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSY Huhnrain Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.8492209,50.4902954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDSZ Zepfenhan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.7191095,48.185646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTA Eibinger Forstwiese Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.89324,50.0185999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTB Oos</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.1846737,48.7942325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTC Bruchsal</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.5640295,49.1350035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTD Donaueschingen-Villingen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.5153466,47.9753749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTE Eutingen Im Gaeu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.7767805,48.4854878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTF Freiburg/Breisgau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.8326448,48.0226162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTG Bremgarten</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6223126,47.9006902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTI Tirschenreuth Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.328842,49.874332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTJ Langenselbold Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0696227,50.178322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTK Forchheim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.3422179,48.9770078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTN Nabern/Teck</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.4737527,48.6160052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTP Pfullendorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.2508251,47.9104009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTQ Pattonville</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.22266227809677,48.8653078591916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>EDTSM Wildberg Glider Airfield</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
@@ -3270,11 +4440,389 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>EDTQ Pattonville</name>
+        <name>EDTU Saulgau</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            9.22266227809677,48.8653078591916,0
+            9.5054652,48.0287884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTV Laufenselden Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.9988419,50.2217978,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTW Winzeln-Schramberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.4289072,48.2805458,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDTZ Konstanz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1353928,47.6818485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUA Ferchesar</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.4835872,52.6484031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUC Utscheid Segelflugplatz</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.3454773,49.9992059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUD Reinheim Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.8503702,49.8396851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUE Unterwssen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.4391071,47.7302041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUG Pohlheim Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.7327725,50.5321409,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUH Rothenberg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.9356261,49.4849893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUI Schotten Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.14633,50.5361011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUIN Kleve-Wisseler Dunen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.3010609,51.7695325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUJ Nidda Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.9876597,50.4057831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUK Vielbrunn Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0818728,49.7209566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUL Uslar Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.608308,51.6629232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUM Ummern Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.4145212,52.6173973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUN Geratshof Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.8374155,47.991508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUP Ziegenhain Airfield - Der Ring</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.2402145,50.9061955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUQ Borghorst Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.453095,52.1505628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUR Hoherodskopf Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.2190051,50.4996344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUU Dsseldorf-Wolfsaap Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8519916,51.2645097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUX Langenfeld Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.9857555,51.1408826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDUZ Zerbst</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.1458387,52.0002787,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVA Bad Gandersheim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.024648,51.8562441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVB Lindlar Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.3738714,50.9952122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVC Arloh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.1159398,52.6873255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVD Segelfluggelande Altenbachtal</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1588311,49.9229081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVF Blomberg-Borkhausen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1112025,51.9166221,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVH Hodenhagen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.6074621,52.7619663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVI Hoxter-Holzminden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3782682,51.8067609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVJ Schaferstuhl</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.3644372,52.0296139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVK Calden</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3935596,51.4173114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVL Holleberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.4002901,51.611289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVN Northeim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.0375238,51.7079046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVO Dehausen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0491273,51.46385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVQ Wilsche</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.4683128,52.524157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVR Rinteln</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0572354,52.1753962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVS Drutte</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.4279937,52.1567945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVT Ithwiesen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.662357,51.9520751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVU Uelzen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.4681466,52.9829826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVV Kerken UL</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.4465587,51.4420714,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDVW Bad Pyrmont</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.29739,51.97163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWC Damme</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.1829376,52.4887302,0
           </coordinates>
         </Point>
       </Placemark>
@@ -3288,6 +4836,33 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>EDWG Wangerooge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.908913,53.7883657,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWN Lingen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.1822024,52.457275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWO Atterheide</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.970259,52.2867496,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>EDWQ Atlas Airfield</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
@@ -3297,11 +4872,515 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>EDWT Blexen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.5317497,53.5374755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWU Varrelbusch</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.0333489,52.9089858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWV Scharnhorst</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.28338,52.96573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWW Warngau Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.703331,47.8252179,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDWX Westerstede-Felde</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.929849,53.2893681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXA Achmer</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.9148357,52.3786138,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXC Schleswig-Kropp</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.538922,54.426582,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXD Bad Essen</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.3300504,52.3527014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXE Eschendorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.4955069,52.2753538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXF Schaferhaus</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3774301,54.776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXG Melle-Gronegau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.37749,52.19976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXI Nienburg-Holzbalge</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.16601,52.7100726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXM St Michaelisdonn</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1455,53.97756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXO St Peter-Ording</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.6820912,54.3085597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXR Schachtholm</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.5979188,54.2170017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXU Huttenbusch</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.949847,53.2859923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXV Berlinchen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            12.5670816,53.2269878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDXX Witzenhausen-Burgberg Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.8240469,51.3517573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYA Brockzetel Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.6485252,53.4818537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYB Tarmstedt Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1084,53.2513999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYC Walsrode Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.60428572862848,52.8900048253049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYD Garbenheimer Wiesen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.529,50.5739999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>EDYE Eudenbach Glider Field</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             7.36097865926812,50.6704336650534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYF Riedelbach Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.383795,50.3022973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYG Welzheim Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.6571617,48.8749389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYI Menden-Barge Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.8414934,51.4608052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYK Siegen-Eisernhardt Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.0195609,50.8380771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYL Warburg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0865326,51.4979587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYM Weipertshofen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            10.1226428,49.0881481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYN Ludwigshafen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.3494611,49.411651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYO Waldeck Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.0574303,51.2286799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYR Ehingen-Schlechtenfeld</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.6733918,48.2852742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYS Riesa-Canitz Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            13.228,51.3023999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYSN Gammelsdorf</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.9324812,48.5681498,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYT Grunstadt Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.1373031,49.5846148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYTR Sultmer Berg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.9912153,51.727625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYW Wildberg</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.7411577,47.5995868,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYX Volkleshofen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3542093,49.0105379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDYY Vaihingen an der Enz Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.9706468,48.9365005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZA Ubersberg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.2973652,48.4583935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZB Titschendorf Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.5216999,50.3940494,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZC Tauberbischofsheim Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.6316963,49.648362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZD Singhofen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.8548,50.2713999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZG Aero-Club Perleberg e.V.</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.81395,53.0674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZI Zierenberg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3354047,51.368453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZJ Kusel-Langenbach Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.3138952,49.4766455,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZK Klein Gartz Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            11.3184316,52.8276964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZL Kirn Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.5201773,49.7747986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZM Fischbek Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.8258308,53.4582796,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZN Eßweiler Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.579594,49.5618609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZO Flugplatz Daun</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8578512,50.1759008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZQ Dillingen Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.7520179,49.3869094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZS Bundenthal-Rumbach Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.793943,49.0924913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZT Esslingen-Jagerhaus Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.3338889,48.7622219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZU Bad Marienberg Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            8.0286487,50.6606452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZV Baumerlenbach Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.4171047,49.23099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EDZW UL-Flugplatz Auf der Schaufel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            9.1488126,51.098252,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4053,11 +6132,65 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>LFBN Souche</name>
+        <name>LF0429 Sainte Croix sur Verdon</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            -0.399145920591214,46.3155107881663,0
+            6.1615,43.7765859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFAD Margny</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.8036755,49.4356505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFAM Berck sur Mer</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.5927048,50.4232688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFAO Couterne</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3854797,48.5453143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFAQ Bray</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.6899462,49.973242,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LFAS Monts D'Eraines]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1453622,48.9271185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFAU Vauville</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.8298533,49.6237736,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4071,11 +6204,335 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>LFBN Souche</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.399145920591214,46.3155107881663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFBS Parentis</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.1317289,44.3662058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFBU Brie-Champniers</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.2185254,45.7266199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFBX Bassillac</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.812644,45.196329,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCB Bagneres de Luchon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.5995267,42.8009251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCE Saint Laurent</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.9516924,46.1770013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCG Antichan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.103531,43.0075081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCM Larzac</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.1817315,43.9888381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCO Herrere</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.55947,43.1642711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCS Leognan-Saucats</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.6005654,44.7001858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCT Thouars</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1569768,46.9627949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFCX Moissac</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.1274622,44.0875284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LFDA Aire-sur-l'Adour]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.2497767,43.708866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFDF Sainte Foy la Grande</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.1784378,44.8524264,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFDM Virazeil</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.1980939,44.4987926,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFDN St Agnant</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9834732,45.8868854,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFDT Laloubere</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.0764287,43.2152378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFDW Chauvigny</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.6422581,46.581356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEB Trelivan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.1039081,48.4432698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEF Dierre</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.9446724,47.340805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEK Le Fay</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.0400387,46.8883527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEM Vimory</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.686186,47.9610335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFET Til-Chatel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.2064453,47.5445936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEU Les Hauts de Chee</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.1828804,48.8676757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEV Saint Adrien</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.6165586,47.4314145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEY Le Grand Phare</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -2.389504,46.71723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFEZ Malzeville</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.2090647,48.7203778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>LFFB Buno Bonnevaux</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             2.42569530516265,48.3493914554906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFC Cherence</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.6927861,49.079626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFJ Mussey</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.14322,48.3852933,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFK Fontenay-le Comte</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.7944436,46.4410359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFL Bailleau Armenonville Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.6405313,48.5163137,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFT Neufchateau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.7169683,48.3606833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFV Mereau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.0658738,47.1968383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFW St Georges</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3241084,46.9315778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFFZ St Remy</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.7606427,48.7101097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFGB Habsheim</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.4285924,47.7421949,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4089,6 +6546,186 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>LFGG Chaux</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8337469,47.6955947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFGP Cheu</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.7728912,47.9801028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFGU Neunkirch</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            7.1065561,49.129789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFHD Pierrelatte</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.716113,44.3977001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFHE Saint Paul</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.0982541,45.0633802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LFHG L'Horme]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.5350111,45.4907893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFHN Vouvray</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.8047353,46.1233381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFHQ Coltines</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.9926296,45.0749177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFHR Beaumont</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.3629091,45.3192901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFHS Ceyzeriat</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.2874846,46.2053602,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFID Valence-sur-Baise</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.3896824,43.9096358,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFIF Belmont</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.7459408,43.8233904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFIL Rion Des Landes</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.9496779,43.9151961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFIM Montrejeau</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.618724,43.1074478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFIT Bourg-St Bernard</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.7258215,43.6102772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFIX Itxassou</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.4207569,43.3357558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFJF Aubenasson</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.1506014,44.6949478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFJH Palaminy</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.0494127,43.1995177,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFJR Marce</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.3144233,47.5629222,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFJS Courmelles</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.2776417,49.3425103,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>LFJT Le Louroux</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
@@ -4098,11 +6735,83 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>LFKD Sollieres Sardieres</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.8017207,45.2539586,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>LFKG Alzitone</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             9.40227019283739,42.0540408875544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFKI Aron Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.5356423,48.3124728,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFKN Eauze Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.1425222,43.8928253,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFKP La Tour Du Pin Airfield</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.3860678,45.5572124,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFLN St Yan</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.0211109,46.4063963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFLO Renaison</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.0031513,46.0525822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LFLR St Rambert d'Albon]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.8229656,45.2565193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFLZ Chambeon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.1939017,45.7073053,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4125,11 +6834,209 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>LFMU Vias</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.3534281,43.3206285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFMX St Auban</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.9925118,44.0590035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFMZ Lezignan-Corbieres</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.7330622,43.173874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNB Brenoux</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.5273098,44.506607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>LFNC Saint Crepin</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             6.59959396426638,44.7011248686401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNF Vinon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.7881951,43.7361793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNH Carpentras</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.0894178,44.0224368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNJ Aspres Sur Buech</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.7362751,44.5176916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNL St Martin De Londres</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.7817866,43.7998299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNN Narbonne</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.0519076,43.1940414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNO Florac Ste Enimie Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.454803,44.288799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNQ La Quillane</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.1198635,42.5430619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNS Vaumeilh</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.9297436,44.282812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNT Pujaut</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.7546664,43.9962443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNW Puivert</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.0549654,42.9102413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNX La Tour-Sur-Orb</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.1447155,43.6393729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNY St Etienne En Devoluy Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.9041205,44.6667904,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFNZ Le Mazet De Romanin Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.8942114,43.769334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFOD St Florent</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.1155698,47.2586743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFOF Valframbert</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.1091226,48.4443957,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFOL Saint Michel</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            0.6580921,48.7590091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFOR Champhol</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.5240399,48.4594497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFOW Roupy</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.2064297,49.8168812,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4143,11 +7050,183 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name><![CDATA[LFOZ St Denis de l'Hotel]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.164314,47.8983219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFPF Thiverval</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.9048643,48.8434046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFPK Voisins</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.0110089,48.8375748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFPU Episy</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.7986162,48.3433055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFQC Croismare</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.5472905,48.5929977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFQD Roclincourt</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.8009151,50.3225492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFQH Chatillon-sur-Seine
+</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.5799164,47.8488121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFQK Ecury-sur-Coole</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.3495893,48.903331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFQM La Veze</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.078926,47.206916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFQW Frotey</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.2053826,47.6387263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>LFRP Loyat</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
             -2.3789756061273,48.0019144366487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFRW Le Val St Pere</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.3996712,48.6612304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFSA Thise</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.0820275,47.2731889,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFSE Dogneville</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.4526382,48.2112132,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFSP Pontarlier</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.3268929,46.9092545,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFSS Saint Sulpice des Landes</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -1.6430202,47.7904336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFSU Langres-Rolampont</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.2903604,47.961648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFSV Pont St Vincent</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            6.0584242,48.6008439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFTM Montsaleon</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            5.7264033,44.4500743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[LFTN La Grand'Combe]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            4.0111276,44.24366,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4166,6 +7245,33 @@
         <Point>
           <coordinates>
             6.37317363077003,44.3414954479937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFXB Thenac AB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -0.636005,45.706898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFYG Niergnies AB</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            3.2636574,50.1407211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LFZY Saint-Hilaire-Saint-Mesmin Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            1.84129474763669,47.8112870144378,0
           </coordinates>
         </Point>
       </Placemark>
@@ -4328,6 +7434,24 @@
         <Point>
           <coordinates>
             19.2207006,49.7716048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDRO Otocac</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            15.2802296,44.850491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LDSS Sinj</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            16.671079,43.6993199,0
           </coordinates>
         </Point>
       </Placemark>
@@ -5344,6 +8468,114 @@
         <Point>
           <coordinates>
             -62.3828958398311,-37.6064191990444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBAQ Araquara</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -48.1396316,-21.8055546,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBAX Araxa</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.9657927,-19.5607284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBBU Bauru</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -49.0540278,-22.3435495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBCH Chapeco</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -52.6606672,-27.1320128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBGW Guaratingueta</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -45.2068939,-22.7954583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBIX Clube CEU Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -43.6580779,-22.9616558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBLF Goianira Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -49.3953748,-16.5907516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBNJ Barreiras Airport</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -45.7128486,-12.0712814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBPC Pocos De Caldas</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -46.566142,-21.8403376,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBPN Porto Nacional</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -48.4003099,-10.716428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBUG Rubem Berta Intl</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -57.0357006,-29.7839952,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SBYS Campo Fontenelle</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            -47.3381538,-21.9836063,0
           </coordinates>
         </Point>
       </Placemark>
